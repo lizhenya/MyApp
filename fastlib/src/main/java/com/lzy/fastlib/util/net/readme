@@ -1,0 +1,2 @@
+该包下为获取网络状态的工具类，未经同意不要轻易修改。主要是临时获取网络状态和实时获取网络状态：
+添加权限： <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
